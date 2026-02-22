@@ -1,10 +1,12 @@
-# Hi, I'm Prasanna 👋
+## Hi, I'm Prasanna Yeluguri 👩‍💻
 
-💻 IT Student | 💡 Problem Solver | 🌱 Learning Everyday  
+### About me
 
-- 🎓 B.Tech (Information Technology)  
-- 💻 Languages: C, C++, Java, Python  
-- 🌐 Frontend: HTML, CSS, JavaScript  
-- 📚 Interests: DSA, ML basics, Project Building  
+🎓 **Information Technology student**  
+🧠 Learning by building, experimenting, and improving step by step  
 
-✨ *Consistent progress > perfection*
+💻 **Currently working with:** Java, Python  
+📊 Practicing **Data Structures & problem-solving** through regular coding  
+🤖 Exploring **Machine Learning fundamentals** through small projects  
+
+🌱 Still learning, staying consistent, and focusing on writing better code
